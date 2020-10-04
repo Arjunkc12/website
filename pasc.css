@@ -13,3 +13,33 @@ text-align:right;
 h1,h2{
 height:10px;
 }
+#mainmenu{
+  text-align:right;
+  background-color:blue;
+  margin-top:20px;
+  padding:10px;
+  color:white;
+  font-weight:bold;
+}
+#mainimage{
+  width:100%;
+}
+#latestnews{
+  width:40%;
+  height:100px;
+  float:left;
+}
+#aboutus{
+  width:40%;
+  height:100px;
+  float:right;
+}
+#latestnewshead{
+  background-color:blue;
+  color:white;
+  padding:10px;
+}
+#aboutushead{
+  background-color:blue;
+  padding:10px;
+}
