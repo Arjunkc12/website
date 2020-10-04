@@ -32,7 +32,7 @@ height:10px;
 #aboutus{
   width:40%;
   height:100px;
-  float:right;
+ 
 }
 #latestnewshead{
   background-color:blue;
@@ -42,4 +42,6 @@ height:10px;
 #aboutushead{
   background-color:blue;
   padding:10px;
+  color:white;
+   float:right;
 }
