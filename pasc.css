@@ -32,7 +32,7 @@ height:10px;
 #aboutus{
   width:40%;
   height:100px;
- 
+ float:left;
 }
 #latestnewshead{
   background-color:blue;
