@@ -44,3 +44,13 @@ width:58%;
   color:white;
    
 }
+#marqueestyle{
+  background-color:red;
+  padding:10px;
+  height:100px;
+}
+#aboutusde{
+  background-color:beige;
+  padding:10px;
+  test-align:justify;
+}
