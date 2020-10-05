@@ -36,11 +36,13 @@ height:10px;
 }
 #latestnewshead{
   background-color:yellow;
+   width:40%;
   color:white;
   padding:10px;
 }
 #aboutushead{
   background-color:blue;
+   width:55%;
   padding:10px;
   color:white;
    float:left;
